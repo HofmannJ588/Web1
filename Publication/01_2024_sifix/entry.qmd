@@ -12,7 +12,7 @@ article URL <i class="bi bi-box-arrow-up-right"></i>
 
 M. L. Barsoum<sup>#</sup>, <span class="me-underline">J. Hofmann</span><sup>#</sup>, H. Xie, Z. Chen, S. M. Vornholt, R. dos Reis, N. Burns, S. Kycia, K. W. Chapman, V. P. Dravid, and O. K. Farha
 
-*J. Am. Chem. Soc.* **2024**, *146*, 10, 6557–6565.
+*J. Am. Chem. Soc.* **2024**, *146*, 10, 6557–6565, DOI: 10.1021/jacs.3c11503.
 
 <small>(#M.L.B. and J.H. contributed equally)</small>
 :::
