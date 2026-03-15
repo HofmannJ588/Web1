@@ -1,59 +1,99 @@
----
-title: "Probing structural transformations and degradation mechanisms by direct observation in SIFSIX-3-Ni for direct air capture"
-date: "2024-03-01"
-# We keep these metadata fields for the main listing page, 
-# but we will hide the default header on this specific page.
-author: 
-  - M. L. Barsoum
-  - J. Hofmann
-  - H. Xie
-  - Z. Chen
-  - S. M. Vornholt
-  - R. Dos Reis
-image: "../../images/SIFSIX_TOC.jpeg"
----
-
-```{style}
+/* Hide the default Quarto title/author header */
 #title-block-header {
   display: none;
 }
 
-.pub-container {
+/* Custom three-column grid layout */
+.pub-grid {
   display: grid;
-  grid-template-columns: 80px 1fr 300px;
+  grid-template-columns: 100px 1fr 280px;
   gap: 30px;
   align-items: start;
-  margin-top: 40px;
+  padding: 40px 0;
+  border-bottom: 1px solid #ddd;
 }
 
-.pub-index {
-  font-size: 1.2em;
+/* Column 1: Index and Journal Link */
+.pub-index-col {
+  text-align: left;
+}
+
+.pub-number {
+  font-size: 1.6em;
   font-weight: bold;
-  color: #555;
+  color: #222;
+  margin-bottom: 8px;
 }
 
-.pub-url {
-  font-size: 0.8em;
-  display: block;
-  margin-top: 10px;
-  text-decoration: none;
+.pub-url-link {
+  font-size: 0.85em;
   color: #0366d6;
+  text-decoration: none;
+  display: block;
 }
 
-.pub-citation {
-  font-size: 1.1em;
-  line-height: 1.6;
+.pub-url-link:hover {
+  text-decoration: underline;
 }
 
-.pub-toc img {
+/* Column 2: Full Citation */
+.pub-cite-col {
+  font-size: 1.05em;
+  line-height: 1.5;
+  color: #333;
+}
+
+.pub-title-text {
+  font-weight: bold;
+  font-size: 1.15em;
+  display: block;
+  margin-bottom: 8px;
+  color: #000;
+}
+
+.me-underline {
+  text-decoration: underline;
+}
+
+/* Column 3: TOC Figure */
+.pub-image-col img {
   width: 100%;
   height: auto;
-  border: 1px solid #ddd;
+  border: 1px solid #eee;
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.05);
+  border-radius: 4px;
 }
 
-@media (max-width: 768px) {
-  .pub-container {
+/* Mobile Responsiveness */
+@media (max-width: 800px) {
+  .pub-grid {
     grid-template-columns: 1fr;
     gap: 20px;
   }
 }
+
+
+::: {.pub-grid}
+
+::: {.pub-index-col}
+
+<div class="pub-number">1</div>
+<a href="https://www.google.com/search?q=https://doi.org/10.1021/jacs.3c11503" class="pub-url-link" target="_blank">
+journal URL <i class="bi bi-box-arrow-up-right"></i>
+</a>
+:::
+
+::: {.pub-cite-col}
+<span class="pub-title-text">Probing structural transformations and degradation mechanisms by direct observation in SIFSIX-3-Ni for direct air capture</span>
+
+M. L. Barsoum, <span class="me-underline">J. Hofmann</span>, H. Xie, Z. Chen, S. M. Vornholt, R. dos Reis, N. Burns, S. Kycia, K. W. Chapman, V. P. Dravid, O. K. Farha
+
+J. Am. Chem. Soc. 2024, 146, 10, 6557–6565.
+
+<small>(#M.L.B. and J.H. contributed equally)</small>
+:::
+
+::: {.pub-image-col}
+:::
+
+:::
