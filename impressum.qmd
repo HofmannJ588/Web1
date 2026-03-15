@@ -1,0 +1,25 @@
+---
+title: "Impressum"
+---
+
+## Angaben gemäß § 5 DDG
+Jan Hofmann  
+Stony Brook University  
+Department of Chemistry  
+John S. Toll Drive  
+Stony Brook, NY 11794  
+USA  
+
+## Kontakt
+Telefon: +1 (631) 590-0319  
+
+## Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV
+Jan Hofmann  
+Stony Brook University  
+Department of Chemistry  
+John S. Toll Drive  
+Stony Brook, NY 11794  
+USA  
+
+## Haftungshinweis
+Trotz sorgfältiger inhaltlicher Kontrolle übernehme ich keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
