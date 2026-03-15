@@ -1,14 +1,12 @@
 ---
 title: "Probing structural transformations and degradation mechanisms by direct observation in SIFSIX-3-Ni for direct air capture"
+author: "M. L. Barsoum, J. Hofmann, H. Xie, Z. Chen, S. M. Vornholt, R. dos Reis, N. Burns, S. Kycia, K. W. Chapman, V. P. Dravid, O. K. Farha"
 date: "2024-03-01"
-author: 
-  - M. L. Barsoum
-  - J. Hofmann
-  - H. Xie
-  - Z. Chen
-  - S. M. Vornholt
-  - R. Dos Reis
 image: "../../images/SIFSIX_TOC.jpeg"
+description: "J. Am. Chem. Soc. 2024, 146, 10, 6557-6565. DOI: 10.1021/jacs.3c11503"
 ---
 
-Barsoum, M. L.; Hofmann, J.; Xie, H.; Chen, Z.; Vornholt, S. M.; Dos Reis, R. Probing structural transformations and degradation mechanisms by direct observation in SIFSIX-3-Ni for direct air capture. *J. Am. Chem. Soc.* **2024**, *146* (10), 6557–6565. [https://doi.org/10.1021/jacs.3c13145](https://doi.org/10.1021/jacs.3c13145)
+### Full Citation
+Barsoum, M. L.; Hofmann, J.; Xie, H.; Chen, Z.; Vornholt, S. M.; Dos Reis, R.; Burns, N.; Kycia, S.; Chapman, K. W.; Dravid, V. P.; Farha, O. K. Probing Structural Transformations and Degradation Mechanisms by Direct Observation in SIFSIX-3-Ni for Direct Air Capture, *J. Am. Chem. [cite_start]Soc.* **2024**, *146*, 10, 6557-6565[cite: 38, 39].
+
+*(#M.L.B. and J.H. are first authors and contributed equally to this work.)*
