@@ -3,8 +3,37 @@ title: "Publications"
 listing:
   contents: "*/index.qmd"
   sort: "date desc"
-  type: default
-  categories: false
-  sort-ui: false
-  filter-ui: false
+  type: grid
+  grid-columns: 1
+  image-height: 150px
+  fields: [title, author, description, image, date]
 ---
+
+<style>
+/* Custom styling to match Masiello Entry 67 */
+.quarto-listing-container-grid .g-col-1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 2rem;
+  margin-bottom: 2rem;
+}
+
+.listing-item .card-body {
+  order: 1;
+  flex: 1;
+  padding-right: 20px;
+}
+
+.listing-item .card-img-top {
+  order: 2;
+  flex: 0 0 300px; /* Adjust width of the TOC image here */
+  height: auto;
+}
+
+.listing-item .card {
+  border: none;
+}
+</style>
