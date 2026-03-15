@@ -4,7 +4,7 @@
     "href": "Publication/01_2024_sifix/index.html",
     "title": "Probing structural transformations and degradation mechanisms by direct observation in SIFSIX-3-Ni for direct air capture",
     "section": "",
-    "text": "Full Citation\nBarsoum, M. L.; Hofmann, J.; Xie, H.; Chen, Z.; Vornholt, S. M.; Dos Reis, R.; Burns, N.; Kycia, S.; Chapman, K. W.; Dravid, V. P.; Farha, O. K. Probing Structural Transformations and Degradation Mechanisms by Direct Observation in SIFSIX-3-Ni for Direct Air Capture, J. Am. Chem. [cite_start]Soc. 2024, 146, 10, 6557-6565[cite: 38, 39].\n(#M.L.B. and J.H. are first authors and contributed equally to this work.)"
+    "text": "#title-block-header { display: none; }\n.pub-container { display: grid; grid-template-columns: 80px 1fr 300px; gap: 30px; align-items: start; margin-top: 40px; }\n.pub-index { font-size: 1.2em; font-weight: bold; color: #555; }\n.pub-url { font-size: 0.8em; display: block; margin-top: 10px; text-decoration: none; color: #0366d6; }\n.pub-citation { font-size: 1.1em; line-height: 1.6; }\n.pub-toc img { width: 100%; height: auto; border: 1px solid #ddd; }\n@media (max-width: 768px) { .pub-container { grid-template-columns: 1fr; gap: 20px; } }"
   },
   {
     "objectID": "impressum.html",
@@ -60,6 +60,6 @@
     "href": "Publication/index.html",
     "title": "Publications",
     "section": "",
-    "text": "Probing structural transformations and degradation mechanisms by direct observation in SIFSIX-3-Ni for direct air capture\n\n\nJ. Am. Chem. Soc. 2024, 146, 10, 6557-6565. DOI: 10.1021/jacs.3c11503\n\n\n\nM. L. Barsoum, J. Hofmann, H. Xie, Z. Chen, S. M. Vornholt, R. dos Reis, N. Burns, S. Kycia, K. W. Chapman, V. P. Dravid, O. K. Farha\n\n\nMar 1, 2024\n\n\n\n\n\n\nNo matching items"
+    "text": "Probing structural transformations and degradation mechanisms by direct observation in SIFSIX-3-Ni for direct air capture\n\n\n\n\n\n\nM. L. Barsoum, J. Hofmann, H. Xie, Z. Chen, S. M. Vornholt, R. Dos Reis\n\n\nMar 1, 2024\n\n\n\n\n\n\nNo matching items"
   }
 ]
