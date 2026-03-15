@@ -10,7 +10,7 @@ article URL <i class="bi bi-box-arrow-up-right"></i>
 ::: {.pub-cite-col}
 <span class="pub-title-text">Probing Structural Transformations and Degradation Mechanisms by Direct Observation in SIFSIX-3-Ni for Direct Air Capture</span>
 
-M. L. Barsoum, <span class="me-underline">J. Hofmann</span>, H. Xie, Z. Chen, S. M. Vornholt, R. dos Reis, N. Burns, S. Kycia, K. W. Chapman, V. P. Dravid, and O. K. Farha
+M. L. Barsoum<sup>#</sup>, <span class="me-underline">J. Hofmann</span><sup>#</sup>, H. Xie, Z. Chen, S. M. Vornholt, R. dos Reis, N. Burns, S. Kycia, K. W. Chapman, V. P. Dravid, and O. K. Farha
 
 *J. Am. Chem. Soc.* **2024**, *146*, 10, 6557–6565.
 
