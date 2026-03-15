@@ -8,7 +8,7 @@ article URL <i class="bi bi-box-arrow-up-right"></i>
 :::
 
 ::: {.pub-cite-col}
-<span class="pub-title-text">Heat-Treatment-Dependent Negative Thermal Expansion in Defect-Engineered UiO-66-Type Metal–Organic Frameworks</span>
+<span class="pub-title-text">Node Distortions in UiO-66 Inform Negative Thermal Expansion Mechanisms: Kinetic Effects, Frustration, and Lattice Hysteresis</span>
 
 S. M. Vornholt, Z. Chen, <span class="me-underline">J. Hofmann</span>, and K. W. Chapman
 
