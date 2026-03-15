@@ -80,9 +80,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-author','listing-description','listing-image','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -197,36 +197,63 @@ window.Quarto = {
 </header>
 
 
+<style>
+/* Custom styling to match Masiello Entry 67 */
+.quarto-listing-container-grid .g-col-1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 2rem;
+  margin-bottom: 2rem;
+}
+
+.listing-item .card-body {
+  order: 1;
+  flex: 1;
+  padding-right: 20px;
+}
+
+.listing-item .card-img-top {
+  order: 2;
+  flex: 0 0 300px; /* Adjust width of the TOC image here */
+  height: auto;
+}
+
+.listing-item .card {
+  border: none;
+}
+</style>
 
 
 
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1709251200000" data-listing-file-modified-sort="1773594434739" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="64">
-<div class="thumbnail"><a href="../Publication/01_2024_sifix/index.html" class="no-external">
-
-<img loading="lazy" src="../images/SIFSIX_TOC.jpeg" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../Publication/01_2024_sifix/index.html" class="no-external">Probing structural transformations and degradation mechanisms by direct observation in SIFSIX-3-Ni for direct air capture</a>
-</h3>
-<div class="delink listing-description"><a href="../Publication/01_2024_sifix/index.html" class="no-external">
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="list grid quarto-listing-cols-1">
+<div class="g-col-1" data-index="0" data-listing-date-sort="1709251200000" data-listing-file-modified-sort="1773594446438" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="64">
+<a href="../Publication/01_2024_sifix/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="../images/SIFSIX_TOC.jpeg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Probing structural transformations and degradation mechanisms by direct observation in SIFSIX-3-Ni for direct air capture
+</h5>
+<div class="card-text listing-description delink">
 <p>J. Am. Chem. Soc. 2024, 146, 10, 6557-6565. DOI: 10.1021/jacs.3c11503</p>
-</a></div>
 </div>
-<div class="metadata">
-<a href="../Publication/01_2024_sifix/index.html" class="no-external">
-<div class="listing-date">
-Mar 1, 2024
-</div>
+<div class="card-attribution card-text-small justify">
 <div class="listing-author">
 M. L. Barsoum, J. Hofmann, H. Xie, Z. Chen, S. M. Vornholt, R. dos Reis, N. Burns, S. Kycia, K. W. Chapman, V. P. Dravid, O. K. Farha
 </div>
-</a>
+<div class="listing-date">
+Mar 1, 2024
 </div>
+</div>
+</div>
+</div></a>
 </div>
 </div>
 <div class="listing-no-matching d-none">No matching items</div>
