@@ -2,17 +2,28 @@
 title: "Jan Hofmann"
 about:
   template: trestles
-  image: images/profile.jpg
+  image: images/self.jpeg
   links:
-    - icon: envelope
-      text: Email
-      href: "mailto:[Your Email]"
-    - icon: github
-      text: Github
-      href: https://github.com/HofmannJ588
+    - icon: mortarboard
+    - text: Google Scholar
+      href: https://scholar.google.com/citations?user=YAyeMm4AAAAJ&hl=en&authuser=1
 ---
 
-Welcome. I am a PhD student in Chemistry at Stony Brook University, focusing on materials chemistry, Metal-Organic Frameworks (MOFs), and structural analysis.
+[cite_start]PhD student in the Chapman lab at Stony Brook University[cite: 5, 56]. [cite_start]In my research I focus on structural transformations in Metal-organic frameworks (MOFs)[cite: 7, 57].
 
 ## Education
-**Ph.D. in Chemistry** | Stony Brook University | *In Progress*
+
+**Stony Brook University** | Stony Brook, NY
+Ph.D. in Chemistry | [cite_start]2021 – present [cite: 40, 41]
+* [cite_start]Focus on in situ characterization of metal-organic frameworks [cite: 42]
+* [cite_start]Expected graduation: May 2027 [cite: 46]
+
+**Leipzig University** | Leipzig, Germany
+M.Sc. in Chemistry | [cite_start]2018 – 2021 [cite: 47, 48]
+* [cite_start]Thesis: Development of multicomponent alloys for fuel cell applications [cite: 49]
+
+
+**Leipzig University** | Leipzig, Germany
+B.Sc. in Chemistry | [cite_start]2014 – 2018 [cite: 51, 52]
+* [cite_start]Thesis: Influences of neutral salt depleted mother liquor on the MFI-synthesis with respect to the hydrothermal stability of the zeolite [cite: 53]
+
