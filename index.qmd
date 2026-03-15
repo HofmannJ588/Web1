@@ -5,7 +5,7 @@ about:
   image: images/self.jpeg
   links:
     - icon: mortarboard
-    - text: Google Scholar
+      text: Google Scholar
       href: https://scholar.google.com/citations?user=YAyeMm4AAAAJ&hl=en&authuser=1
 ---
 
@@ -13,17 +13,18 @@ about:
 
 ## Education
 
-**Stony Brook University** | Stony Brook, NY
+**Stony Brook University** | Stony Brook, NY  
 Ph.D. in Chemistry | [cite_start]2021 – present [cite: 40, 41]
+
 * [cite_start]Focus on in situ characterization of metal-organic frameworks [cite: 42]
 * [cite_start]Expected graduation: May 2027 [cite: 46]
 
-**Leipzig University** | Leipzig, Germany
+**Leipzig University** | Leipzig, Germany  
 M.Sc. in Chemistry | [cite_start]2018 – 2021 [cite: 47, 48]
+
 * [cite_start]Thesis: Development of multicomponent alloys for fuel cell applications [cite: 49]
 
-
-**Leipzig University** | Leipzig, Germany
+**Leipzig University** | Leipzig, Germany  
 B.Sc. in Chemistry | [cite_start]2014 – 2018 [cite: 51, 52]
-* [cite_start]Thesis: Influences of neutral salt depleted mother liquor on the MFI-synthesis with respect to the hydrothermal stability of the zeolite [cite: 53]
 
+* [cite_start]Thesis: Influences of neutral salt depleted mother liquor on the MFI-synthesis with respect to the hydrothermal stability of the zeolite [cite: 53]
