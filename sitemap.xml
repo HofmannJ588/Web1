@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://jan-hofmann.net/Publication/01_2024_sifix/entry.html</loc>
-    <lastmod>2026-03-15T18:40:40.470Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jan-hofmann.net/impressum.html</loc>
-    <lastmod>2026-03-15T18:40:40.471Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jan-hofmann.net/index.html</loc>
-    <lastmod>2026-03-15T18:40:40.471Z</lastmod>
+    <loc>https://jan-hofmann.net/Publication/02_2024_uio/entry.html</loc>
+    <lastmod>2026-03-15T18:43:15.361Z</lastmod>
   </url>
   <url>
     <loc>https://jan-hofmann.net/Publication/index.html</loc>
-    <lastmod>2026-03-15T18:40:40.470Z</lastmod>
+    <lastmod>2026-03-15T18:43:15.361Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jan-hofmann.net/index.html</loc>
+    <lastmod>2026-03-15T18:43:15.363Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jan-hofmann.net/impressum.html</loc>
+    <lastmod>2026-03-15T18:43:15.363Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jan-hofmann.net/Publication/01_2024_sifix/entry.html</loc>
+    <lastmod>2026-03-15T18:43:15.361Z</lastmod>
   </url>
 </urlset>
