@@ -10,9 +10,9 @@ article URL <i class="bi bi-box-arrow-up-right"></i>
 ::: {.pub-cite-col}
 <span class="pub-title-text">Heat-Treatment-Dependent Negative Thermal Expansion in Defect-Engineered UiO-66-Type Metal–Organic Frameworks</span>
 
-<span class="me-underline">J. Hofmann</span>, C. A. Santoro, and K. W. Chapman
+S. M. Vornholt, Z. Chen, <span class="me-underline">J. Hofmann</span>, and K. W. Chapman
 
-*J. Am. Chem. Soc.* **2024**, *146*, 29, 20230–20239. doi: 10.1021/jacs.4c05313
+*J. Am. Chem. Soc.* **2024**, *146*, 29, 20230–20239. Doi: 10.1021/jacs.4c05313
 :::
 
 ::: {.pub-image-col}
