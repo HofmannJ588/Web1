@@ -1,17 +1,66 @@
 ---
 title: "Publications"
-listing:
-  contents: "*/index.qmd"
-  type: table
-  sort: "index desc"
-  fields: [index, title, image]
-  field-display-names:
-    index: "#"
-    title: "Reference"
-    image: "TOC Graphic"
-  table-striped: true
-  table-hover: true
+format: 
+  html:
+    page-layout: full
 ---
 
-:::{#sample-listing}
-:::
+<style>
+/* Custom three-column grid layout for the main page */
+.pub-grid {
+  display: grid;
+  grid-template-columns: 100px 1fr 280px;
+  gap: 30px;
+  align-items: start;
+  padding: 40px 0;
+  border-bottom: 1px solid #eee; /* Light line between entries */
+}
+
+.pub-number {
+  font-size: 1.6em;
+  font-weight: bold;
+  color: #222;
+  margin-bottom: 8px;
+}
+
+.pub-url-link {
+  font-size: 0.85em;
+  color: #0366d6;
+  text-decoration: none;
+  display: block;
+}
+
+.pub-cite-col {
+  font-size: 1.05em;
+  line-height: 1.5;
+  color: #333;
+}
+
+.pub-title-text {
+  font-weight: bold;
+  font-size: 1.15em;
+  display: block;
+  margin-bottom: 8px;
+  color: #000;
+}
+
+.me-underline {
+  text-decoration: underline;
+}
+
+.pub-image-col img {
+  width: 100%;
+  height: auto;
+  border: 1px solid #eee;
+  border-radius: 4px;
+}
+
+@media (max-width: 800px) {
+  .pub-grid {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+}
+</style>
+
+{{< include 01_2024_sifix/entry.qmd >}}
