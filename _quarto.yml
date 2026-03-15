@@ -1,0 +1,20 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Jan Hofmann"
+  site-url: "https://jan-hofmann.com"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: Publication/index.qmd
+        text: Publications
+      - href: impressum.qmd
+        text: Impressum
+
+format:
+  html:
+    theme: cosmo
+    toc: true
