@@ -80,9 +80,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-description','listing-image','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-index','listing-title','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
       
-      searchColumns: ["listing-author","listing-image","listing-description"],
+      searchColumns: ["listing-author"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -197,57 +197,66 @@ window.Quarto = {
 </header>
 
 
-<style>
-/* Custom styling to match Masiello Entry 67 */
-.quarto-listing-container-grid .g-col-1 {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: space-between;
-  border-bottom: 1px solid #eee;
-  padding-bottom: 2rem;
-  margin-bottom: 2rem;
-}
-
-.listing-item .card-body {
-  order: 1;
-  flex: 1;
-  padding-right: 20px;
-}
-
-.listing-item .card-img-top {
-  order: 2;
-  flex: 0 0 300px; /* Adjust width of the TOC image here */
-  height: auto;
-}
-
-.listing-item .card {
-  border: none;
-}
-</style>
-
-
-
-
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="list grid quarto-listing-cols-1">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1773595997908" data-listing-reading-time-sort="2" data-listing-word-count-sort="231">
-<a href="../Publication/01_2024_sifix/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
-<div class="card-body post-contents">
-<div class="card-text listing-description delink">
-/* Hide the default Quarto title/author header */ #title-block-header { display: none; }
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
+<div id="sample-listing">
 
 </div>
+
+
+
+
+<div class="quarto-listing quarto-listing-container-table" id="listing-listing">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+    <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+    <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+      <option value="" disabled="" selected="" hidden="">Order By</option>
+      <option value="index" data-direction="asc">Default</option>
+      <option value="listing-title-sort" data-direction="asc">
+        Reference
+      </option>
+    </select>
+  </div>
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
 </div>
-</div>
-</div></a>
-</div>
-</div>
+<table class="quarto-listing-table table table-striped table-hover">
+<thead>
+<tr>
+
+<th>
+#
+</th>
+
+<th>
+<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Reference</a>
+</th>
+
+<th>
+TOC Graphic
+</th>
+
+</tr>
+</thead>
+<tbody class="list">
+
+<tr data-index="0" data-listing-file-modified-sort="1773596510036" data-listing-reading-time-sort="2" data-listing-word-count-sort="231" data-listing-filename-sort="index.qmd" onclick="href = this.querySelector('a').getAttribute('href');
+ if (href) { window.location=href ; return false; }">
+<td>
+<span class="listing-index">&nbsp;</span>
+</td>
+<td>
+<a href="../Publication/01_2024_sifix/index.html" class="title listing-title">&nbsp;</a>
+</td>
+<td>
+<span class="listing-image"><div class="listing-item-img-placeholder card-img-top" style="height: 40px;">&nbsp;</div></span>
+</td>
+
+</tr>
+
+</tbody>
+</table>
 <div class="listing-no-matching d-none">No matching items</div>
 </div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
