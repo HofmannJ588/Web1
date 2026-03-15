@@ -138,34 +138,31 @@ ul.task-list li input[type="checkbox"] {
 
 
 <style>
-/* Custom three-column grid layout for the main page */
+/* Hide the default Quarto title/author header */
+#title-block-header {
+  display: none;
+}
+
+/* Three-column grid for the main list */
 .pub-grid {
   display: grid;
   grid-template-columns: 100px 1fr 280px;
   gap: 30px;
   align-items: start;
   padding: 40px 0;
-  border-bottom: 1px solid #eee; /* Light line between entries */
+  border-bottom: 1px solid #eee;
 }
 
 .pub-number {
   font-size: 1.6em;
   font-weight: bold;
   color: #222;
-  margin-bottom: 8px;
 }
 
 .pub-url-link {
   font-size: 0.85em;
   color: #0366d6;
   text-decoration: none;
-  display: block;
-}
-
-.pub-cite-col {
-  font-size: 1.05em;
-  line-height: 1.5;
-  color: #333;
 }
 
 .pub-title-text {
@@ -188,10 +185,7 @@ ul.task-list li input[type="checkbox"] {
 }
 
 @media (max-width: 800px) {
-  .pub-grid {
-    grid-template-columns: 1fr;
-    gap: 20px;
-  }
+  .pub-grid { grid-template-columns: 1fr; }
 }
 </style>
 <div class="pub-grid">
