@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.8.25">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="M. L. Barsoum">
+<meta name="author" content="J. Hofmann">
+<meta name="author" content="H. Xie">
+<meta name="author" content="Z. Chen">
+<meta name="author" content="S. M. Vornholt">
+<meta name="author" content="R. Dos Reis">
+<meta name="dcterms.date" content="2024-01-01">
+
+<title>Probing structural transformations and degradation mechanisms by direct observation in SIFSIX-3-Ni for direct air capture</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; 
+  vertical-align: middle;
+}
+</style>
+
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-e169080cafdb5f885e5b60abb717d250.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
+<link href="../../site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
+<style>html{ scroll-behavior: smooth; }</style>
+
+<meta name="twitter:title" content="Probing structural transformations and degradation mechanisms by direct observation in SIFSIX-3-Ni for direct air capture">
+<meta name="twitter:card" content="summary">
+</head>
+
+<body class="nav-fixed quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+        <div class="navbar-brand-container mx-auto">
+          <a href="../../index.html" class="navbar-brand navbar-brand-logo">
+            <span class="navbar-title">Research Publications</span>
+          </a>
+        </div>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+          <ul class="navbar-nav navbar-nav-scroll me-auto">
+            <li class="nav-item">
+              <a class="nav-link" href="../publications.html"> 
+                <span class="menu-text">← Back to Publications</span>
+              </a>
+            </li>  
+          </ul>
+        </div>
+      </div>
+    </nav>
+</header>
+
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Probing structural transformations and degradation mechanisms by direct observation in SIFSIX-3-Ni for direct air capture</h1>
+</div>
+
+<div class="quarto-title-meta">
+    <div>
+    <div class="quarto-title-meta-heading">Authors</div>
+    <div class="quarto-title-meta-contents">
+             <p>M. L. Barsoum</p>
+             <p>J. Hofmann</p>
+             <p>H. Xie</p>
+             <p>Z. Chen</p>
+             <p>S. M. Vornholt</p>
+             <p>R. Dos Reis</p>
+          </div>
+  </div>
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">2024</p>
+    </div>
+  </div>
+  </div>
+</header>
+
+<section id="publication-details" style="margin-top: 40px;">
+    <div class="toc-container" style="margin-bottom: 20px;">
+        <img src="../images/SIFSIX_TOC.jpeg" alt="TOC Figure for SIFSIX-3-Ni publication" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px;">
+    </div>
+    <div class="citation-container" style="font-size: 16px; line-height: 1.6;">
+        <p>Barsoum, M. L.; Hofmann, J.; Xie, H.; Chen, Z.; Vornholt, S. M.; Dos Reis, R. Probing structural transformations and degradation mechanisms by direct observation in SIFSIX-3-Ni for direct air capture. <i>J. Am. Chem. Soc.</i> <b>2024</b>, <i>146</i> (10), 6557–6565. <a href="https://doi.org/10.1021/jacs.3c13145" target="_blank">https://doi.org/10.1021/jacs.3c13145</a></p>
+    </div>
+</section>
+
+</main> 
+</div> 
+
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-center">
+      <p>© 2026 · Made with Quarto</p>
+    </div>
+  </div>
+</footer>
+
+<script src="../../site_libs/quarto-html/zenscroll-min.js"></script>
+</body></html>
