@@ -16,7 +16,7 @@ H. Lin, W.-T. Peng, Z. Wang, <span class="me-underline">J. Hofmann</span>, S. M.
 :::
 
 ::: {.pub-image-col}
-![](01_2025_RS1/RS1_TOC.jpeg)
+![](04_2025_RS1/RS1_TOC.jpeg)
 :::
 
 :::
