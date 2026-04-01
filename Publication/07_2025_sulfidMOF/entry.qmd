@@ -1,0 +1,22 @@
+::: {.pub-grid}
+
+::: {.pub-index-col}
+<div class="pub-number">8</div>
+<a href="https://doi.org/10.1038/s41557-025-01876-y" class="pub-url-link" target="_blank">
+article URL <i class="bi bi-box-arrow-up-right"></i>
+</a>
+:::
+
+::: {.pub-cite-col}
+<span class="pub-title-text">Introducing metal–sulfur active sites in metal–organic frameworks via post-synthetic modification for hydrogenation catalysis</span>
+
+H. Xie, M. A. Khoshooei, M. Mandal, S. M. Vornholt, <span class="me-underline">J. Hofmann</span>, L. M. Tufaro, K. O. Kirlikovali, D. A. Grimes, S. Lee, S. Su, S. Reischauer, D. Sengupta, K. Fahy, K. Ma, X. Wang, F. Sha, W. Gong, Y. Che, J. G. Vitillo, J. S. Anderson, J. M. Notestein, K. W. Chapman, L. Gagliardi, and O. K. Farha
+
+*Nat. Chem.* **2025**, *17*, 1514–1523. DOI: 10.1038/s41557-025-01876-y
+:::
+
+::: {.pub-image-col}
+![](07_2025_sulfidMOF/SMOF_TOC.jpeg)
+:::
+
+:::
