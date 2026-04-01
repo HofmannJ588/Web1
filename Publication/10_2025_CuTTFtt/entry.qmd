@@ -12,7 +12,7 @@ article URL <i class="bi bi-box-arrow-up-right"></i>
 
 N. Jiang, S. Velliyarat, C.-Y. Lien, H. L. Nguyen, <span class="me-underline">J. Hofmann</span>, J.-H. Chen, A. Ramanathan, A. S. Filatov, H. S. La Pierre, S. Patel, K. W. Chapman, J.-Niklas Boyn, and J. S. Anderson
 
-*Chem. Sci.* **2025**, *16*, DOI: 10.1039/d5sc03070f
+*Chem. Sci.* **2025**, *16*, 19304. DOI: 10.1039/d5sc03070f
 :::
 
 ::: {.pub-image-col}

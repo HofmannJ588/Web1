@@ -12,7 +12,7 @@ article URL <i class="bi bi-box-arrow-up-right"></i>
 
 S. M. Vornholt, J. J. Ferrari, B. A. Sanchez Monserrate, B. G. Mullens, <span class="me-underline">J. Hofmann</span>, M. L. Beauvais, P. J. Chupas, and K. W. Chapman
 
-*J. Appl. Crystallogr.* **2025**, *58*, 5. DOI: 10.1107/S1600576725006259
+*J. Appl. Crystallogr.* **2025**, *58*, 5, 1852-1858. DOI: 10.1107/S1600576725006259
 :::
 
 ::: {.pub-image-col}
