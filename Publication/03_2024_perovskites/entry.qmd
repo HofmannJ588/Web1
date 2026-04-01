@@ -16,7 +16,7 @@ H. Karunadasa, J. Li, Y. Wang, S. Saha, Z. Chen, <span class="me-underline">J. H
 :::
 
 ::: {.pub-image-col}
-![](03_2024_perovskites/perovskites1_TOC.jpeg)
+![](03_2024_perovskites/perovskites1_TOC.jpg)
 :::
 
 :::
