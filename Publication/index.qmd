@@ -57,6 +57,7 @@ format:
 }
 </style>
 
+{{< include 04_2025_RS1/entry.qmd >}}
 {{< include 03_2024_perovskites/entry.qmd >}}
 {{< include 02_2024_uio/entry.qmd >}}
 {{< include 01_2024_sifix/entry.qmd >}}
