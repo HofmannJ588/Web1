@@ -12,7 +12,7 @@ article URL <i class="bi bi-box-arrow-up-right"></i>
 
 H. Lin, W.-T. Peng, Z. Wang, <span class="me-underline">J. Hofmann</span>, S. M. Vornholt, H. Liu, S. Wang, J. Holoubek, K. Zhou, Q. Miao, S. Huber, K. W. Chapman, S. P. Ong, and P. Liu
 
-*ACS Materials Lett.* **2025**, *7*, 699–706. DOI: 10.1021/acsmaterialslett.4c02086
+*ACS Materials Lett.* **2025**, *7*, *2*, 699–706. DOI: 10.1021/acsmaterialslett.4c02086
 :::
 
 ::: {.pub-image-col}
