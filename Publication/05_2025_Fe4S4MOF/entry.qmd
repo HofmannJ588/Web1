@@ -1,0 +1,22 @@
+::: {.pub-grid}
+
+::: {.pub-index-col}
+<div class="pub-number">5</div>
+<a href="https://doi.org/10.1021/jacs.4c16341" class="pub-url-link" target="_blank">
+article URL <i class="bi bi-box-arrow-up-right"></i>
+</a>
+:::
+
+::: {.pub-cite-col}
+<span class="pub-title-text">Structure and Synthesizability of Iron–Sulfur Metal–Organic Frameworks</span>
+
+J. Mao, N. Jiang, A. Daru, A. S. Filatov, <span class="me-underline">J. Hofmann</span>, S. M. Vornholt, K. W. Chapman, J. S. Anderson, and A. L. Ferguson
+
+*J. Am. Chem. Soc.* **2025**, *147*, 21, 17651–17667. DOI: 10.1021/jacs.4c16341
+:::
+
+::: {.pub-image-col}
+![](05_2025_Fe4S4MOF/2025_Fe4S4MOF_TOC.jpeg)
+:::
+
+:::

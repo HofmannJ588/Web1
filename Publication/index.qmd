@@ -57,6 +57,8 @@ format:
 }
 </style>
 
+
+{{< include 05_2025_Fe4S4MOF/entry.qmd >}}
 {{< include 04_2025_RS1/entry.qmd >}}
 {{< include 03_2024_perovskites/entry.qmd >}}
 {{< include 02_2024_uio/entry.qmd >}}
