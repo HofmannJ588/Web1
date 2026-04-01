@@ -1,0 +1,22 @@
+::: {.pub-grid}
+
+::: {.pub-index-col}
+<div class="pub-number">12</div>
+<a href="https://doi.org/10.1021/acsmaterialslett.5c01329" class="pub-url-link" target="_blank">
+article URL <i class="bi bi-box-arrow-up-right"></i>
+</a>
+:::
+
+::: {.pub-cite-col}
+<span class="pub-title-text">Facile Generation of Active Sites in Nodes of Ni-MFU-4l Metal-Organic Framework for Hydrogenation Reaction</span>
+
+M. A. Khoshooei, <span class="me-underline">J. Hofmann</span>, H. Xie, S. M. Vornholt, Y. Yoo, F. Sha, Y. Chen, K. O. Kirlikovali, K. W. Chapman, and O. K. Farha
+
+*ACS Materials Lett.* **2026**, *8*, 1, 213–219. DOI: 10.1021/acsmaterialslett.5c01329
+:::
+
+::: {.pub-image-col}
+![](12_2026_MFU4L/MFU4L_TOC.jpeg)
+:::
+
+:::

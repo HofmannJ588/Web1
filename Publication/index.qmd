@@ -57,6 +57,8 @@ format:
 }
 </style>
 
+
+{{< include 12_2026_MFU4L/entry.qmd >}}
 {{< include 11_2025_FeTTFtt/entry.qmd >}}
 {{< include 10_2025_CuTTFtt/entry.qmd >}}
 {{< include 09_2025_labdiff/entry.qmd >}}
