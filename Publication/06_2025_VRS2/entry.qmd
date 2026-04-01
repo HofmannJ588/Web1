@@ -12,7 +12,7 @@ article URL <i class="bi bi-box-arrow-up-right"></i>
 
 H. Lin, Z. Wang, O. Solares, S. Huber, <span class="me-underline">J. Hofmann</span>, S. Danitz, W.-T. Peng, K. Zhou, P.-C. Lee, H. Liu, Z. Hui, R. Liu, M. Liu, W. Tang, J. Wu, Z. Chen, K. W. Chapman, S. P. Ong, and P. Liu
 
-*Adv. Mater.* **2025**, 2503143. DOI: 10.1002/adma.202503143
+*Adv. Mater.* **2025**, *37*, *46*, 2503143. DOI: 10.1002/adma.202503143
 :::
 
 ::: {.pub-image-col}
