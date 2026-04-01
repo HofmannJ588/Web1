@@ -1,0 +1,22 @@
+::: {.pub-grid}
+
+::: {.pub-index-col}
+<div class="pub-number">11</div>
+<a href="https://doi.org/10.1021/jacs.5c12985" class="pub-url-link" target="_blank">
+article URL <i class="bi bi-box-arrow-up-right"></i>
+</a>
+:::
+
+::: {.pub-cite-col}
+<span class="pub-title-text">Spin Glass Behavior and Giant Magnetoresistance via Aliovalent Fe/Ni Alloying in Amorphous Tetrathiafulvalene-Tetrathiolate Coordination Polymers</span>
+
+C.-Y. Lien, J.-H. Chen, A. O. Schouten, G. R. Wilkinson, D. Wang, <span class="me-underline">J. Hofmann</span>, M. E. Czaikowski, B. Lavina, A. S. Filatov, K. W. Chapman, A. P. Higginbotham, D. V. Talapin, D. A. Mazziotti, H. S. La Pierre, S. N. Patel, and J. S. Anderson
+
+*J. Am. Chem. Soc.* **2025**, *147*, 43, 39590–39598. DOI: 10.1021/jacs.5c12985
+:::
+
+::: {.pub-image-col}
+![](11_2025_FeTTFtt/FeTTFtt_TOC.jpeg)
+:::
+
+:::
