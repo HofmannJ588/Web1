@@ -1,0 +1,22 @@
+::: {.pub-grid}
+
+::: {.pub-index-col}
+<div class="pub-number">9</div>
+<a href="https://doi.org/10.1107/S1600576725006259" class="pub-url-link" target="_blank">
+article URL <i class="bi bi-box-arrow-up-right"></i>
+</a>
+:::
+
+::: {.pub-cite-col}
+<span class="pub-title-text">Benchmarking a modern laboratory-based powder diffraction instrument for in situ studies in transmission geometry</span>
+
+S. M. Vornholt, J. J. Ferrari, B. A. Sanchez Monserrate, B. G. Mullens, <span class="me-underline">J. Hofmann</span>, M. L. Beauvais, P. J. Chupas, and K. W. Chapman
+
+*J. Appl. Crystallogr.* **2025**, *58*, 5. DOI: 10.1107/S1600576725006259
+:::
+
+::: {.pub-image-col}
+![](09_2025_labdiff/2025labdif_TOC.jpg)
+:::
+
+:::
