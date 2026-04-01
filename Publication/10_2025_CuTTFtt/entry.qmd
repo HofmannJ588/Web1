@@ -1,0 +1,22 @@
+::: {.pub-grid}
+
+::: {.pub-index-col}
+<div class="pub-number">10</div>
+<a href="https://doi.org/10.1039/d5sc03070f" class="pub-url-link" target="_blank">
+article URL <i class="bi bi-box-arrow-up-right"></i>
+</a>
+:::
+
+::: {.pub-cite-col}
+<span class="pub-title-text">Pre-synthetic redox control of structure and properties in copper TTFtt coordination polymers</span>
+
+N. Jiang, S. Velliyarat, C.-Y. Lien, H. L. Nguyen, <span class="me-underline">J. Hofmann</span>, J.-H. Chen, A. Ramanathan, A. S. Filatov, H. S. La Pierre, S. Patel, K. W. Chapman, J.-Niklas Boyn, and J. S. Anderson
+
+*Chem. Sci.* **2025**, *16*, DOI: 10.1039/d5sc03070f
+:::
+
+::: {.pub-image-col}
+![](10_2025_CuTTFtt/CUTTFtt_TOC.jpg)
+:::
+
+:::
