@@ -1,0 +1,22 @@
+::: {.pub-grid}
+
+::: {.pub-index-col}
+<div class="pub-number">7</div>
+<a href="https://doi.org/10.1002/adma.202503143" class="pub-url-link" target="_blank">
+article URL <i class="bi bi-box-arrow-up-right"></i>
+</a>
+:::
+
+::: {.pub-cite-col}
+<span class="pub-title-text">A Disordered Rock Salt Anode for Long-Lived All-Vanadium Sodium-Ion Battery</span>
+
+H. Lin, Z. Wang, O. Solares, S. Huber, <span class="me-underline">J. Hofmann</span>, S. Danitz, W.-T. Peng, K. Zhou, P.-C. Lee, H. Liu, Z. Hui, R. Liu, M. Liu, W. Tang, J. Wu, Z. Chen, K. W. Chapman, S. P. Ong, and P. Liu
+
+*Adv. Mater.* **2025**, 2503143. DOI: 10.1002/adma.202503143
+:::
+
+::: {.pub-image-col}
+![](06_2025_VRS2/VRS2_TOC.jpg)
+:::
+
+:::
