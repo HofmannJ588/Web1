@@ -1,0 +1,22 @@
+::: {.pub-grid}
+
+::: {.pub-index-col}
+<div class="pub-number">6</div>
+<a href="https://doi.org/10.1021/jacs.5c03696" class="pub-url-link" target="_blank">
+article URL <i class="bi bi-box-arrow-up-right"></i>
+</a>
+:::
+
+::: {.pub-cite-col}
+<span class="pub-title-text">Suppressing Phase Transitions and High-Pressure Amorphization through Tethered Organic Cations in Organochalcogenide-Halide Perovskites</span>
+
+J. Li, <span class="me-underline">J. Hofmann</span>, R. M. Stolz, J. Wen, C. R. Deschene, H. Bartels, Z. Liu, A. Salleo, Y. Lin, K. W. Chapman, and H. I. Karunadasa
+
+*J. Am. Chem. Soc.* **2025**, *147*, 22, 19026–19038. DOI: 10.1021/jacs.5c03696
+:::
+
+::: {.pub-image-col}
+![](06_2025_SePerovskites/SePerovskites_TOC.jpeg)
+:::
+
+:::
