@@ -16,7 +16,7 @@ H. Lin, Z. Wang, O. Solares, S. Huber, <span class="me-underline">J. Hofmann</sp
 :::
 
 ::: {.pub-image-col}
-![](06_2025_VRS2/VRS2_TOC.jpg)
+![](07_2025_VRS2/VRS2_TOC.jpg)
 :::
 
 :::

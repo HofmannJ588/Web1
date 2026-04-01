@@ -58,8 +58,8 @@ format:
 </style>
 
 
-{{< include 07_2025_sulfidMOF/entry.qmd >}}
-{{< include 06_2025_VRS2/entry.qmd >}}
+{{< include 08_2025_sulfidMOF/entry.qmd >}}
+{{< include 07_2025_VRS2/entry.qmd >}}
 {{< include 06_2025_SePerovskites/entry.qmd >}}
 {{< include 05_2025_Fe4S4MOF/entry.qmd >}}
 {{< include 04_2025_RS1/entry.qmd >}}

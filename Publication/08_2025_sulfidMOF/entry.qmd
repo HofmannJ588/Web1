@@ -16,7 +16,7 @@ H. Xie, M. A. Khoshooei, M. Mandal, S. M. Vornholt, <span class="me-underline">J
 :::
 
 ::: {.pub-image-col}
-![](07_2025_sulfidMOF/SMOF_TOC.jpeg)
+![](08_2025_sulfidMOF/SMOF_TOC.jpeg)
 :::
 
 :::
