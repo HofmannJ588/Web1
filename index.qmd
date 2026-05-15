@@ -3,7 +3,7 @@ title: "Jan Hofmann"
 about:
   template: trestles
   image: images/self.jpg
-links:
+  links:
     - icon: mortarboard
       text: Google Scholar
       href: https://scholar.google.com/citations?user=YAyeMm4AAAAJ&hl=en&authuser=1
