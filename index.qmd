@@ -7,6 +7,9 @@ about:
     - icon: mortarboard
       text: Google Scholar
       href: https://scholar.google.com/citations?user=YAyeMm4AAAAJ&hl=en&authuser=1
+      - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/jan-hofmann-ger
 ---
 
 PhD student in the Chapman lab at Stony Brook University. In my research I focus on structural transformations in Metal-organic frameworks (MOFs).
