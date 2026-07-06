@@ -1,0 +1,22 @@
+::: {.pub-grid}
+
+::: {.pub-index-col}
+<div class="pub-number">13</div>
+<a href="https://doi.org/10.1021/acsmaterialslett.6c00145" class="pub-url-link" target="_blank">
+article URL <i class="bi bi-box-arrow-up-right"></i>
+</a>
+:::
+
+::: {.pub-cite-col}
+<span class="pub-title-text">Sculpting the Pores of a Metal–Organic Framework to Enhance Mixture Separation: An Illustrative Study Based on Xe/Kr Separation</span>
+
+Q. Wang, J. Sui, K. Mochida, Z. Wang, F. Formalik, C. D. Malliakas, <span class="me-underline">J. Hofmann</span>, X. Wang, K. W. Chapman, O. K. Farha, R. Q. Snurr, and J. T. Hupp
+
+*ACS Materials Lett.* **2026**, *8*, 1900–1907. DOI: 10.1021/acsmaterialslett.6c00145
+:::
+
+::: {.pub-image-col}
+![](13_2026_XeKrDED/2026_XeKrMOF_TOC.jpeg)
+:::
+
+:::
