@@ -57,7 +57,7 @@ format:
 }
 </style>
 
-
+{{< include 13_2026_XeKrDED/entry.qmd >}}
 {{< include 12_2026_MFU4L/entry.qmd >}}
 {{< include 11_2025_FeTTFtt/entry.qmd >}}
 {{< include 10_2025_CuTTFtt/entry.qmd >}}
@@ -70,4 +70,3 @@ format:
 {{< include 03_2024_perovskites/entry.qmd >}}
 {{< include 02_2024_uio/entry.qmd >}}
 {{< include 01_2024_sifix/entry.qmd >}}
-{{< include 13_2026_XeKrDED/entry.qmd >}}
