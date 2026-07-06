@@ -16,7 +16,7 @@ Q. Wang, J. Sui, K. Mochida, Z. Wang, F. Formalik, C. D. Malliakas, <span class=
 :::
 
 ::: {.pub-image-col}
-![](Publication/13_2026_XeKrDED/2026_XeKrMOF_TOC.jpeg)
+![](13_2026_XeKrDED/2026_XeKr_POM_TOC.jpeg)
 :::
 
 :::
