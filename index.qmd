@@ -11,7 +11,7 @@ about:
       text: LinkedIn
       href: https://www.linkedin.com/in/jan-hofmann-ger
 ---
-PhD student in the Chapman lab at Stony Brook University. In my research I focus on structural transformations in Metal-organic frameworks (MOFs).
+PhD candidate in the Chapman lab at Stony Brook University. In my research I focus on structural analysis of Metal-organic frameworks (MOFs) and other materials with X-ray scattering methods.
 
 ## Education
 
