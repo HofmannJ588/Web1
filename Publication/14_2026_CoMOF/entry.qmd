@@ -1,0 +1,22 @@
+::: {.pub-grid}
+
+::: {.pub-index-col}
+<div class="pub-number">14</div>
+<a href="https://doi.org/10.1021/jacs.6c11639" class="pub-url-link" target="_blank">
+article URL <i class="bi bi-box-arrow-up-right"></i>
+</a>
+:::
+
+::: {.pub-cite-col}
+<span class="pub-title-text">Electrocatalytic Hydrogenation with Nanoparticles Derived from a Cobalt Metal–Organic Framework</span>
+
+B. K. Behera, X. Zheng, H. Xie, A. Darù, D. Zangeneh, B. Patawah, M. Maurya, I. Doughan, X. Kong, N. P. Lata, A. M. Sarkar, <span class="me-underline">J. Hofmann</span>, A. S. Kumar, Š. Kunstelj, J. T. Bryant, M. Delferro, A. Wuttig, K. W. Chapman, C. Segre, R. F. Klie, R. B. Getman, O. K. Farha, L. Gagliardi, and K. D. Glusac
+
+*J. Am. Chem. Soc.* **2026**, *148*, 32, 35004–35016. DOI: 10.1021/jacs.6c11639
+:::
+
+::: {.pub-image-col}
+![](14_2026_CoMOF/2026_CoMOF.png)
+:::
+
+:::
