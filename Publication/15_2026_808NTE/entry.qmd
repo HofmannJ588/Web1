@@ -12,7 +12,7 @@ article URL <i class="bi bi-box-arrow-up-right"></i>
 
 <span class="me-underline">J. Hofmann</span>, A. Roslend, J. G. Ajello, S. M. Vornholt, O. Akinsoji, J. T. Hupp, and K. W. Chapman
 
-*J. Am. Chem. Soc.* **2026**, DOI: 10.1021/jacs.6c12924
+*J. Am. Chem. Soc.* **2026**, *148*, 35, 38404–38411. DOI: 10.1021/jacs.6c12924
 :::
 
 ::: {.pub-image-col}
