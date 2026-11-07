@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - JanHofmann_resume.pdf
 
 website:
   title: "Jan Hofmann"
@@ -18,3 +20,4 @@ format:
   html:
     theme: cosmo
     toc: true
+
