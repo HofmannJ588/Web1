@@ -10,7 +10,7 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/jan-hofmann-ger
-      - icon: file-earmark-pdf
+    - icon: file-earmark-pdf
       text: Download CV
       href: /JanHofmann_resume.pdf
 ---
